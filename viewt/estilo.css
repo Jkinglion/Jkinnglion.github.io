@@ -1,0 +1,24 @@
+body{
+background-image: url(imagenes/wallpapertip_the-seven-deadly-sins_300592.jpg);
+margin: 0%;
+}
+h1{
+    color: aliceblue;
+    text-align: initial;
+    font-size: 23px;
+    margin: 10%;
+    margin: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    margin: auto;
+}
+image{
+    width: 300px;
+    border-radius: 10px;
+    border: 1px silver
+}
+image:hover{
+    /*transform:rotate(30deg); */
+    transform: scale(1,2);
+}
